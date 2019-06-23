@@ -1,5 +1,4 @@
 #coding:utf-8
-#Author By Arice
 #Referer:部分代码思维来源于互联网
 import sys
 import urllib
